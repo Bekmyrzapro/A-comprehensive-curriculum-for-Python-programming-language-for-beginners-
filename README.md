@@ -1,5 +1,5 @@
 ### A-comprehensive-curriculum-for-Python-programming-language-for-beginners!
- The curriculum contains important fundamental concepts such as : variables, data types, logic statements, for loop, while loop, functions, etc.
+ The curriculum contains important fundamental concepts such as : variables, data types, logic statements, for loop, while loop, functions, etc. and mathematical topics.
 
 https://www.youtube.com/playlist?list=PLQ0QdEYha9cOhAQbacc1fQleLkJqShW6I
 
